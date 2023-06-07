@@ -1,0 +1,31 @@
+Bộ test 4:
+// wind
+Input: 230 5 8 17 Sun
+Output: 0 5 5.8
+
+Input: 200 5 5 5 Sun
+Output: 0 0 240
+
+Input: 575 9 7 20 Sun
+Output: 7 1 38.515
+
+Input: 373 7 9 50 Sun
+Output: 8 0 7.000
+
+Input: 205 3 7 15 Sun
+Output: 0 3 113.546
+// rain
+Input: 500 3 6 50 Sun
+Output: 15 15 0.885
+
+Input: 300 6 9 10 Sun
+Output: 2 3 52.148
+
+Input: 40 6 3 31 Sun
+Output: 1 1 4.931
+// cloud
+Input: 296 4 7 100 Sun
+Output: 2 8 0.124
+
+Input: 305 10 4 20 Sun
+Output: 3 2 24.867
